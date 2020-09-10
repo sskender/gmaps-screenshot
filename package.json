@@ -13,7 +13,7 @@
     "author": "sskender",
     "license": "ISC",
     "dependencies": {
-        "node-webshot": "^1.0.4"
+        "capture-website": "^1.2.1"
     },
     "devDependencies": {
         "prettier": "^2.1.1"
